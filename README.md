@@ -3,7 +3,7 @@
 Android Mod Developer
 
 • GTA SA Android Reverse Engineering  
-• ARM32 & ARM64 Development  
+• ARM64 Development  
 • AML / PSDK Modding   
 • Open Source Projects
 
